@@ -2,6 +2,6 @@
 
 User authentication and authorization API. Age as login permission argument.
 
-## C# .NET Identity Framework
+## C# .NET Entity Identity Jwt
 
 ### igordscunha@outlook.com
